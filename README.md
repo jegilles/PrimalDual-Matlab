@@ -1,4 +1,4 @@
-# PrimalDual
+# PrimalDual-Matlab
  Matlab implementation of primal-dual algorithms for image processing
  
  This toolbox provides some basic operators (gradient, divergence) as well as 
